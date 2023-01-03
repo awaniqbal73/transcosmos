@@ -1,0 +1,1 @@
+Cara menjalankan agar image terbaca mengunakan Go Live Server extension dari VsCode
